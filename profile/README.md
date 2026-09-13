@@ -1,40 +1,47 @@
-[![Spatius — real-time AI avatars, working toward low cost, high quality, and low latency](https://raw.githubusercontent.com/spatius-ai/.github/main/profile/assets/spatius-banner.svg)](https://www.spatius.ai)
+[![Spatius — real-time AI avatar infrastructure](https://raw.githubusercontent.com/spatius-ai/.github/main/profile/assets/spatius-developers.svg)](https://www.spatius.ai)
 
-**Bring your voice stack. We bring the avatar.**
+Spatius brings synchronized motion and on-device avatar rendering to your AI applications. Connect your existing voice stack with our SDKs and agent integrations.
 
-Spatius adds a real-time avatar layer to AI applications: stream synchronized motion and render on the user's device. We're working toward **low cost, high quality, and low latency—together**.
+**[Documentation](https://docs.spatius.ai)** · [Website](https://www.spatius.ai) · [Playground](https://www.spatius.ai/playground/) · [Discord](https://discord.gg/9HGhZfHZh9)
 
-**[Try the live demo ↗](https://www.spatius.ai/playground/)** &nbsp; · &nbsp; [Quick start](https://github.com/spatius-ai/create-spatius-app) &nbsp; · &nbsp; [Documentation](https://docs.spatius.ai) &nbsp; · &nbsp; [LiveKit integration](https://docs.livekit.io/agents/models/avatar/plugins/spatius/)
+### Quick start
 
-### Meet the avatars
-
-<table>
-<tr>
-<td width="33%" align="center">
-<a href="https://www.spatius.ai/demo/education/"><img src="https://raw.githubusercontent.com/spatius-ai/.github/main/profile/assets/avatar-samir.webp" alt="Samir — avatar preview" width="220"></a>
-<br><strong>Language learning</strong><br><sub>Conversation practice with Samir</sub>
-</td>
-<td width="34%" align="center">
-<a href="https://www.spatius.ai/demo/tech-support/"><img src="https://raw.githubusercontent.com/spatius-ai/.github/main/profile/assets/avatar-leyla.webp" alt="Leyla — avatar preview" width="220"></a>
-<br><strong>Customer support</strong><br><sub>Face-to-face help with Leyla</sub>
-</td>
-<td width="33%" align="center">
-<a href="https://www.spatius.ai/demo/sales/"><img src="https://raw.githubusercontent.com/spatius-ai/.github/main/profile/assets/avatar-julian.webp" alt="Julian — avatar preview" width="220"></a>
-<br><strong>Sales conversations</strong><br><sub>Product conversations with Julian</sub>
-</td>
-</tr>
-</table>
-
-### Start building
+Create a React voice-avatar app with LiveKit or Agora:
 
 ```bash
 npx create-spatius-app my-app
 ```
 
-Choose LiveKit or Agora, then follow the setup prompts. See the [quick-start requirements](https://github.com/spatius-ai/create-spatius-app#quick-start) for accounts and local tooling.
+Follow the setup prompts. See [requirements and setup](https://github.com/spatius-ai/create-spatius-app#quick-start) for accounts and local tooling.
 
-[Integration examples](https://github.com/spatius-ai/spatius-integration-demo) · [Scene demos](https://github.com/spatius-ai/spatius-scenario-demo) · [Python SDK](https://github.com/spatius-ai/spatius-sdk-python) · [Go SDK](https://github.com/spatius-ai/spatius-sdk-go)
+### SDKs & integrations
+
+| What you want to do | Start here |
+| --- | --- |
+| **Render avatars in your app** | [Web](https://docs.spatius.ai/sdk-reference/web-sdk/reference) · [iOS](https://docs.spatius.ai/sdk-reference/ios-sdk/api-reference) · [Android](https://docs.spatius.ai/sdk-reference/android-sdk/api-reference) · [Flutter](https://docs.spatius.ai/sdk-reference/flutter-sdk/api-reference) |
+| **Manage sessions from your backend** | [Python](https://docs.spatius.ai/sdk-reference/python-sdk/python-sdk) · [Go](https://docs.spatius.ai/sdk-reference/go-sdk/go-sdk) |
+| **Connect a voice agent** | [LiveKit Agents](https://docs.spatius.ai/livekit-agents/overview) · [Agora ConvoAI](https://docs.spatius.ai/agora-convoai/overview) |
+| **Use your own audio pipeline** | [Direct Mode](https://docs.spatius.ai/direct-mode/client) · [Backend Mode](https://docs.spatius.ai/backend-mode/server-sdk) |
+
+[Compare SDK capabilities](https://docs.spatius.ai/reference/sdk-capabilities) · [Spatius in LiveKit's documentation](https://docs.livekit.io/agents/models/avatar/plugins/spatius/)
+
+### Examples
+
+[Integration examples](https://github.com/spatius-ai/spatius-integration-demo) · [Scene demos](https://github.com/spatius-ai/spatius-scenario-demo)
+
+<table>
+<tr>
+<td width="28%">
+<a href="https://www.spatius.ai/demo/education/"><img src="https://raw.githubusercontent.com/spatius-ai/.github/main/profile/assets/avatar-samir.webp" alt="Spatius language-learning demo preview" width="190"></a>
+</td>
+<td>
+<strong>Try a live avatar conversation</strong>
+<p>Experience Spatius in a language-learning demo, then explore the examples to build your own.</p>
+<a href="https://www.spatius.ai/demo/education/">Open live demo →</a>
+</td>
+</tr>
+</table>
 
 ---
 
-Built by **SpatialWalk**. [Website](https://www.spatius.ai) · [Customer stories](https://www.spatius.ai/customers/) · [Discord](https://discord.gg/9HGhZfHZh9)
+Built by **SpatialWalk**. [Community](https://discord.gg/9HGhZfHZh9) · [Contact](mailto:hello@spatialwalk.net)
