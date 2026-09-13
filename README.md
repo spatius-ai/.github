@@ -1,2 +1,5 @@
-# .github
-Spatius on GitHub — real-time AI avatars, developer tools, and integration examples.
+# Spatius on GitHub
+
+Public organization profile for [Spatius](https://github.com/spatius-ai), built by SpatialWalk.
+
+The organization homepage is maintained in [profile/README.md](profile/README.md).
