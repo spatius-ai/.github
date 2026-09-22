@@ -6,7 +6,7 @@ Spatius brings synchronized motion and on-device avatar rendering to your AI app
 
 ### Quick start
 
-Create a React voice-avatar app with LiveKit or Agora:
+Create a voice-avatar app with LiveKit or Agora:
 
 ```bash
 npx create-spatius-app my-app
@@ -32,12 +32,12 @@ Follow the setup prompts. See [requirements and setup](https://github.com/spatiu
 <table>
 <tr>
 <td width="28%">
-<a href="https://www.spatius.ai/demo/education/"><img src="https://raw.githubusercontent.com/spatius-ai/.github/main/profile/assets/avatar-samir.webp" alt="Spatius language-learning demo preview" width="190"></a>
+<a href="https://www.spatius.ai/playground/english_coach/"><img src="https://raw.githubusercontent.com/spatius-ai/.github/main/profile/assets/avatar-samir.webp" alt="Spatius language-learning demo preview" width="190"></a>
 </td>
 <td>
 <strong>Try a live avatar conversation</strong>
 <p>Experience Spatius in a language-learning demo, then explore the examples to build your own.</p>
-<a href="https://www.spatius.ai/demo/education/">Open live demo →</a>
+<a href="https://www.spatius.ai/playground/english_coach/">Open live demo →</a>
 </td>
 </tr>
 </table>
