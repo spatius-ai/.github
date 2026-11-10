@@ -19,9 +19,8 @@ Follow the setup prompts. See [requirements and setup](https://github.com/spatiu
 | What you want to do | Start here |
 | --- | --- |
 | **Render avatars in your app** | [Web](https://docs.spatius.ai/sdk-reference/web-sdk/reference) · [iOS](https://docs.spatius.ai/sdk-reference/ios-sdk/api-reference) · [Android](https://docs.spatius.ai/sdk-reference/android-sdk/api-reference) · [Flutter](https://docs.spatius.ai/sdk-reference/flutter-sdk/api-reference) |
-| **Manage sessions from your backend** | [Python](https://docs.spatius.ai/sdk-reference/python-sdk/python-sdk) · [Go](https://docs.spatius.ai/sdk-reference/go-sdk/go-sdk) |
 | **Connect a voice agent** | [LiveKit Agents](https://docs.spatius.ai/livekit-agents/overview) · [Agora ConvoAI](https://docs.spatius.ai/agora-convoai/overview) |
-| **Use your own audio pipeline** | [Direct Mode](https://docs.spatius.ai/direct-mode/client) · [Backend Mode](https://docs.spatius.ai/backend-mode/server-sdk) |
+| **Use your own audio pipeline** | [Direct Mode](https://docs.spatius.ai/direct-mode/client) |
 
 [Compare SDK capabilities](https://docs.spatius.ai/reference/sdk-capabilities) · [Spatius in LiveKit's documentation](https://docs.livekit.io/agents/models/avatar/plugins/spatius/)
 
